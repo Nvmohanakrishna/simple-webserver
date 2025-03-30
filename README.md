@@ -41,13 +41,13 @@ Testing the webserver.
                 <th>Refrence Number</th>
             </tr>
             <tr>
-                <td>DAKSHINA</td>
-                <td>MOORTHY N D</td>
+                <td>MOHANA</td>
+                <td>KRISHNA N VC</td>
                 <td>18</td> 
-                <td>24900826</td>   
+                <td>24000523</td>   
             </tr>
             <tr>
-                <td>SIBHI</td>
+                <td>MOHAN</td>
                 <td>RAAJ</td>
                 <td>18</td>
                 <td>24900526</td>
@@ -70,7 +70,8 @@ Testing the webserver.
     </html>
  ```
 ## OUTPUT:
-![output](static/Screenshot%20(142).png)
+![image](https://github.com/user-attachments/assets/6fa9c884-3ee8-4470-8cac-e7ddca5c6ac2)
+
 
 
 ## RESULT:
